@@ -12,9 +12,9 @@ This project attempts to provide
 What we have so far:
 
 1.  A complete data model of the core parts of an eXtreme Programming oriented project planner (like Pivotal Tracker). This is available in Postgresql-ready DDL.
-1.1 Entity relationship diagram.
-1.2 DDL to implement the data model.
-2.3 The beginning of a AI conversation to write code to implement an project planning application on top of this data model.
+- Entity relationship diagram.
+- DDL to implement the data model.
+- The beginning of a AI conversation to write code to implement an project planning application on top of this data model.
 
   
 
