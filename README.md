@@ -16,7 +16,7 @@ What we have so far:
 - DDL to implement the data model.
 - The beginning of a AI conversation to write code to implement an project planning application on top of this data model.
 
-![Entity-Relationship Diagram of Database Layer](./Screenshot%202024-10-13%20at%204.17.06%E2%80%AFAM.png)
+![Entity-Relationship Diagram of Database Layer](./EastAgileTracke ER Diagram 2024-10-18 at 3.20.05 PM)
 
 
   
